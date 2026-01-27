@@ -114,6 +114,16 @@
   number_educ: 1
   education1: Master Leiden University
 
+- name: Fabian Steinmeyer
+  photo: fabian.jpg
+  info: PhD Student, started December 2025
+  email: b
+  number_educ: 2
+  education1: MSc Leiden University with [Kaveh Lahabi](https://lahabilab.com) and [Simon Gröblacher](https://groeblacherlab.tudelft.nl/)
+  education2: BSc Friedrich-Alexander-Universität Erlangen-Nürnberg
+  education3:
+  education4:
+
 - name: Marios-Apollon Marangos
   photo: apollon.png
   info: Engineer
