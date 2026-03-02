@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Allan Lab
-email: your-email@domain.com
+title: NMR Methodology and Applications Laboratory
+email: edusanches@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the AllanLab.
-baseurl: ""
-url: ""
+baseurl: "/nmr-analytical-lab.github.io"
+url: "https://dr-eduardo-nascimento.github.io"
 
 include:
   - .htaccess
