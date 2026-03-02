@@ -1,38 +1,17 @@
-- date: 1. October 2025
-  headline: Welcome Yuval, Devidas, and Fabian!
+- date: 2. March 2026
+  headline: Text example!
 
-- date: 15. July 2025
-  headline: Welcome Apollon and Stefan!
+- date: 2. March 2026
+  headline: Image example! ![Image](shiba_cover.jpg)
 
-- date: 3. March 2025
-  headline: Welcome Premakumar!
+- date: 2. March 2026
+  headline: paper publication example  [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.035136)
 
-- date: 12. February 2025
-  headline: Our Amorphous Shiba State - paper is on the cover! ![Image](shiba_cover.jpg)
-
-- date: 16. January 2025
-  headline: Our paper on self-supervised learning is in  [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.035136)
-
-- date: 3. March 2025
-  headline: Our new BSCCO noise paper is on [arXiv](https://arxiv.org/abs/2409.15928)
-
-- date: 1. November 2024
-  headline: Welcome Jaroslav & Louw!
-
-- date: 1. April 2024
-  headline: Welcome Sanghun!
+- date: 2. March 2026
+  headline: arXiv example [arXiv](https://arxiv.org/abs/2409.15928)
 
 - date: 22. February 2024
-  headline: Our shot noise paper is an [Editors' Suggestion in PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001)!  ![image](/images/newspic/ShotnoiseEditor.png){:class="img-responsive"}
-
-- date: 15. September 2023
-  headline: Welcome Thomas!
-
-- date: 1. November 2023
-  headline: All the best with your new position in Dresden Jacky!
-
-- date: 1. September 2023
-  headline: Welcome Yudai!
+  headline: paper and image example [Editors' Suggestion in PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.076001)!  ![image](/images/newspic/ShotnoiseEditor.png){:class="img-responsive"}
 
 - date: 22. June 2023
   headline: Our Majorana-Noise paper is out! And Michelle wrote a [nice item](https://www.universiteitleiden.nl/en/news/2023/06/new-method-to-find-majoranas-tested-for-the-first-time) about it. 
@@ -45,9 +24,6 @@
 
 - date: 6. March 2023
   headline: How does superconductivity break down with high doping? Our new [paper in Nature Materials](https://www.nature.com/articles/s41563-023-01497-1) shines some light on the issue.
-
-- date: 18. December 2022
-  headline: Willem defends his PhD. Contratulations! 
 
 - date: 23. May 2022
   headline: "Two new papers on arXiv! One on [persistent gaps and non-mean-field breakdown of SC](https://arxiv.org/abs/2205.09740), and one on [shot-noise of individual (putative) Majorana modes](https://arxiv.org/abs/2205.10346)."
