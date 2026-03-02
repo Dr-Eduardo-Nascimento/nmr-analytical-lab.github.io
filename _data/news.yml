@@ -2,7 +2,7 @@
   headline: Text example!
 
 - date: 2. March 2026
-  headline: Image example! ![Image](images/Logos_h.jpg)
+  headline: Image example! ![Image]<img src='images/Logos_h.jpg' class='img-responsive' style='max-width: 192px' />
 
 - date: 2. March 2026
   headline: paper publication example  [PRB](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.035136)
