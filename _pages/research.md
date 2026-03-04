@@ -25,3 +25,19 @@ High-throughput NMR platforms for biological fluids and natural extracts.
 ### 5. Chemometrics Integration
 Multivariate statistical tools applied to spectral datasets.
 
+## Research Pillars
+
+### Methodological Innovation in NMR
+Design and optimization of pulse sequences and experimental strategies for analytical applications.
+
+### Quantitative NMR (qNMR)
+Traceable and reproducible quantification methods for pharmaceutical and food matrices.
+
+### Chiral and Stereochemical Analysis
+Advanced NMR approaches for enantiomeric discrimination and stereochemical elucidation.
+
+### Complex Mixture Analysis
+Metabolomics and multicomponent systems using high-resolution NMR combined with chemometrics.
+
+### Data Science Integration
+Multivariate statistical analysis and machine learning applied to spectral interpretation.
