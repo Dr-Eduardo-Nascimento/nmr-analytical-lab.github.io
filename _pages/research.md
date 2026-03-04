@@ -1,15 +1,27 @@
 ---
 title: "Allan Lab - Research"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Nascimento Lab -- Research"
 sitemap: false
 permalink: /research/
 ---
 
-# Research
+## Research Overview
 
-Updating soon -- stay put. (Aug 11 2023)
+The laboratory is dedicated to methodological development in Nuclear Magnetic Resonance spectroscopy with emphasis on analytical applications.
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
+### 1. NMR Method Development
+Development of robust and reproducible pulse sequences for analytical applications.
 
+### 2. Quantitative NMR (qNMR)
+Absolute quantification strategies for pharmaceutical and food analysis.
+
+### 3. Enantiomeric Analysis
+NMR-based approaches for chiral discrimination using solvating and derivatizing agents.
+
+### 4. Metabolomics
+High-throughput NMR platforms for biological fluids and natural extracts.
+
+### 5. Chemometrics Integration
+Multivariate statistical tools applied to spectral datasets.
 
