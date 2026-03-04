@@ -31,10 +31,10 @@ Research group focused on methodological development and advanced applications o
             <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_3.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_3.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/DepQui_logo.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_3.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_4.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_3.jpg" alt="Slide 4" />
