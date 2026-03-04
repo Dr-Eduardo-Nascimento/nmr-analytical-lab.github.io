@@ -8,11 +8,10 @@ permalink: /
 
 **News: Join us! 
 
-We are a dynamic research group at [DQ-UNIFESP](https://site.unifesp.br/dq/) and at the [UNIFESP](https://portal.unifesp.br/). 
+We are a dynamic research group at [DQ-UNIFESP](https://site.unifesp.br/dq/) . 
 
-Our overarching goals: 
+Research group focused on methodological development and advanced applications of Nuclear Magnetic Resonance spectroscopy.
 
- 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -58,18 +57,25 @@ Our overarching goals:
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
+The NMR Analytical Development Laboratory focuses on the development of innovative methodologies in Nuclear Magnetic Resonance (NMR) spectroscopy applied to analytical chemistry.
+
+Our research integrates:
+
+- Advanced NMR pulse sequence development
+- Quantitative NMR (qNMR)
+- Enantiomeric discrimination by NMR
+- Metabolomics and complex mixture analysis
+- Chemometric data analysis
+
+The laboratory aims to bridge fundamental spectroscopy with real-world analytical applications in pharmaceuticals, natural products and biofluids.
 
 **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
 
 
-
-
-
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/LMU_logo.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Tschira.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/SuperC_logo.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
 </figure>
