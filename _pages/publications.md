@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Nascimento Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Nascimento Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -51,11 +51,8 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
 ## Patents
-<em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
-
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a>
+<em>Nascimento, ESP</em><br />Example Patent<br /> PCT/NL00-00/000000 (2026)
 
 ## Full List of publications
 
