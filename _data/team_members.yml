@@ -1,13 +1,13 @@
-- name: Milan P Allan
-  photo: Milan1.jpg
+- name: Eduardo
+  photo: images/EN_June18.jpg
   info: Professor
-  email: milan.allan@gmail.com
+  email: edusanches@gmail.com
   number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  education1: Master in Analytical Chemistry, with <a href="https://www5.iqsc.usp.br/">Prof. Dr. Douglas W. Franco</a>, University of Sao Paulo - Sao Carlos
+  education2: PhD in Chemistry, with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Prof. Antonio G. Ferreira</a>, Federal University of Sao Carlos 
+  education3: Postdoc
+  education4: <a href="https://www5.iqsc.usp.br/">CAPES fellow</a> at USP-IQSC with <a href="https://www5.iqsc.usp.br/">Prof. Dr. Daniel R. Cardoso</a>
+  education5: <a href="https://pocl.iqm.unicamp.br/index.html">FAPESP</a>, at IQ-UNICAMP <a href="https://pocl.iqm.unicamp.br/index.html">Prof. Dr. Claudio F. Tormena</a>
 
 - name: Jiasen Niu
   photo: Jiasen.png
