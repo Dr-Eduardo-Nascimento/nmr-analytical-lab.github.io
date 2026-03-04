@@ -75,9 +75,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-
-
-
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -130,7 +127,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 
 ## Alumni
 
@@ -190,7 +186,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 
 </div>
-
 
 ## Administrative Support
 <a href="mailto:none@none.com">Eduardo Nascimento</a> is helping us (and other groups) with administration.
