@@ -73,9 +73,9 @@ The laboratory aims to bridge fundamental spectroscopy with real-world analytica
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
 </figure>
