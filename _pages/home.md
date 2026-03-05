@@ -1,12 +1,12 @@
 ---
-title: "NMR Analytical Lab - Home"
+title: "Nascimento Lab - Home"
 layout: homelay
 excerpt: "Nascimento Lab at UNIFESP &rarr; IQ."
 sitemap: false
 permalink: /
 ---
 
-**News: Join us! 
+**News: Join us!** 
 
 We are a dynamic research group at [DQ-UNIFESP](https://site.unifesp.br/dq/) . 
 
@@ -61,7 +61,7 @@ The NMR Analytical Development Laboratory focuses on the development of innovati
 
 Our research integrates:
 
-- Advanced NMR pulse sequence development
+- Advanced NMR pulse sequence deployment
 - Quantitative NMR (qNMR)
 - Enantiomeric discrimination by NMR
 - Metabolomics and complex mixture analysis
@@ -74,8 +74,8 @@ The laboratory aims to bridge fundamental spectroscopy with real-world analytica
 
 <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 130px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 150px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 130px">
 </figure>
