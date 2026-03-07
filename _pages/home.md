@@ -6,9 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-**News: Join us!** 
+<!-- **News: Join us!** -->
 
-We are a dynamic research group at [DQ-UNIFESP](https://site.unifesp.br/dq/) . 
+<!-- We are a dynamic research group at [DQ-UNIFESP](https://site.unifesp.br/dq/) . -->
 
 Research group focused on methodological development and advanced applications of Nuclear Magnetic Resonance spectroscopy.
 
@@ -57,7 +57,7 @@ Research group focused on methodological development and advanced applications o
 </div>
 
 
-The NMR Analytical Development Laboratory focuses on the development of innovative methodologies in Nuclear Magnetic Resonance (NMR) spectroscopy applied to analytical chemistry.
+The E.S.P.Nascimento Lab focuses on the development of innovative methodologies based on Nuclear Magnetic Resonance (NMR) spectroscopy applied to Organic and Analytical chemistry.
 
 Our research integrates:
 
@@ -73,9 +73,9 @@ The laboratory aims to bridge fundamental spectroscopy with real-world analytica
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 100px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 120px">
 </figure>
