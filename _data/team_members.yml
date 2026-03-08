@@ -1,13 +1,13 @@
-- name: Eduardo
+- name: Dr. Eduardo S.P. Nascimento
   photo: EN_June18.jpg
-  info: Professor
+  info: Assistent Professor
   email: edusanches@gmail.com
   number_educ: 5
-  education1: Master in Analytical Chemistry, with <a href="https://www5.iqsc.usp.br/">Prof. Dr. Douglas W. Franco</a>, University of Sao Paulo - Sao Carlos
-  education2: PhD in Chemistry, with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Prof. Antonio G. Ferreira</a>, Federal University of Sao Carlos 
+  education1: Master in Analytical Chemistry, with <a href="https://centrodememoria.iqsc.usp.br/douglas-wagner-franco/">Prof. Dr. Douglas W. Franco</a>, University of São Paulo - São Carlos
+  education2: PhD in Chemistry, with <a href="https://www.rmn.ufscar.br/pt-br">Prof. Antonio G. Ferreira</a>, Federal University of São Carlos 
   education3: Postdoc
-  education4: <a href="https://www5.iqsc.usp.br/">CAPES fellow</a> at USP-IQSC with <a href="https://www5.iqsc.usp.br/">Prof. Dr. Daniel R. Cardoso</a>
-  education5: <a href="https://pocl.iqm.unicamp.br/index.html">FAPESP</a>, at IQ-UNICAMP <a href="https://pocl.iqm.unicamp.br/index.html">Prof. Dr. Claudio F. Tormena</a>
+  education4: CAPES fellow at USP-IQSC with <a href="https://www5.iqsc.usp.br/pessoas/docentes/drcardoso/">Prof. Dr. Daniel R. Cardoso</a>
+  education5: FAPESP fellow at IQ-UNICAMP <a href="https://pocl.iqm.unicamp.br/index.html">Prof. Dr. Cláudio F. Tormena</a>
 
 #- name: Jiasen Niu
 #  photo: Jiasen.png

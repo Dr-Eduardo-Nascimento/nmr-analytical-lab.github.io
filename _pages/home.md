@@ -1,7 +1,7 @@
 ---
-title: "Nascimento Lab - Home"
+title: "MIRA Lab - Home"
 layout: homelay
-excerpt: "Nascimento Lab at UNIFESP &rarr; IQ."
+excerpt: "MIRA @UNIFESP &rarr; IQ."
 sitemap: false
 permalink: /
 ---
@@ -26,25 +26,25 @@ Research group focused on methodological development and advanced applications o
     </ol>
 
     <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_3.jpg" alt="Slide 1" />
+    <div class="carousel-inner" markdown="0">    
+        <div class="item active" align="center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/MIRA_Lab_logo.png" alt="Slide 1" height="500" width="500"/>
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/DepQui_logo.png" alt="Slide 2" />
+        <div class="item" align="center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/DepQui_logo.png" alt="Slide 2" height="350" width="350"/>
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_4.jpg" alt="Slide 3" />
+        <div class="item" align="center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_4.jpg" alt="Slide 3" height="500" width="500"/>
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_3.jpg" alt="Slide 4" />
+        <div class="item" align="center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_3.jpg" alt="Slide 4" height="500" width="500"/>
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_3.jpg" alt="Slide 5" />
+        <div class="item" align="center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/instrument/Foto_300.jpg" alt="Slide 5"/>
         </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/Unifesp_foto_3.jpg" alt="Slide 6" />
-        </div>
+         <div class="item" align="center">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/instrument/Foto_500.jpg" alt="Slide 6"/>
+        </div>    
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -57,7 +57,7 @@ Research group focused on methodological development and advanced applications o
 </div>
 
 
-The E.S.P.Nascimento Lab focuses on the development of innovative methodologies based on Nuclear Magnetic Resonance (NMR) spectroscopy applied to Organic and Analytical chemistry.
+The MIRA Lab focuses on the development of innovative methodologies based on Nuclear Magnetic Resonance (NMR) spectroscopy applied to Organic and Analytical chemistry.
 
 Our research integrates:
 
@@ -73,9 +73,9 @@ The laboratory aims to bridge fundamental spectroscopy with real-world analytica
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logo-unifesp-720x480.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/logo-unifesp-720x480.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/fapesp_logo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/cnpq_logo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logo/capes_logo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/MIRA_Lab_logo.png" style="width: 130px">
 </figure>

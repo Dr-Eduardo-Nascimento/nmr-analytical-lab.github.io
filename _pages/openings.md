@@ -1,5 +1,5 @@
 ---
-title: "Nascimento Lab - Vacancies"
+title: "MIRA Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -21,6 +21,4 @@ If you are a Master student at UNIFESP looking for a Master project, contact me 
 If you are interested in pursuing a Master degree at UNIFESP, see [Programa de Pós-Graduação em Química](https://ppg.unifesp.br/cts/).
 
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/Logotipo_QCTS_2025.png" width="95%">
-</figure>
+<img src="{{ site.url }}{{ site.baseurl }}/images/Logotipo_QCTS_2025.png" width="35%">

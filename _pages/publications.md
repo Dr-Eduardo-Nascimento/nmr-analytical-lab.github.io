@@ -1,7 +1,7 @@
 ---
-title: "Nascimento Lab - Publications"
+title: "MIRA Lab - Publications"
 layout: gridlay
-excerpt: "Nascimento Lab -- Publications."
+excerpt: "MIRA -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+At the end of this page, you can find the **[full list of publications](#full-list-of-publications).** <!--All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).** -->
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,9 +51,10 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
+<!-- 
 ## Patents
 <em>Nascimento, ESP</em><br />Example Patent<br /> PCT/NL00-00/000000 (2026)
-
+-->
 ## Full List of publications
 
 {% for publi in site.data.publist %}

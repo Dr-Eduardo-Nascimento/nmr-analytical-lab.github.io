@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Nascimento Lab at UNIFESP."
+excerpt: "MIRA Lab @UNIFESP."
 sitemap: false
 permalink: /allnews.html
 ---
